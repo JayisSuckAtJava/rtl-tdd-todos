@@ -5,7 +5,7 @@ import TodoFrom from './TodoFrom';
 function App() {
 
   const onInsert =()=>{
-    console.log('FUkcu ShitAASS');
+    console.log('FUkcu ShitAASSSDSDDASS');
   }
 
   return (
